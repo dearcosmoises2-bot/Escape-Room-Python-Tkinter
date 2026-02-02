@@ -1,6 +1,6 @@
 # Escape-Room-Python-Tkinter
 
-My very first python project using tkinter to make and click escape room like game.
+My very first python project using tkinter to make a click escape room like game.
 This was a project my friend and I made for our class for CS 2012 for Cal State La.
 It was my idea to start making an escape room concept, so I used some screenshots of what I found in others game I played. I used the background and added our own gimick into solving these 3 rooms. I added clickable labels that are key to escape. It was his idea to customize the door lock and to implement sounds that we couldn't pull off.
 
